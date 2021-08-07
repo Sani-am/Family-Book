@@ -1,0 +1,21 @@
+body{
+background-color: aliceblue;
+border: rgb(70, 68, 68) 2px outset;
+border-radius: 25;
+}
+  
+
+#family_member_image{
+
+    border-radius: 5;
+    border: rgb(170, 114, 170) 3px inset;
+
+}
+
+button{
+
+width: 70px;
+background-color: white;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+border: turquoise 2px outset;
+}
